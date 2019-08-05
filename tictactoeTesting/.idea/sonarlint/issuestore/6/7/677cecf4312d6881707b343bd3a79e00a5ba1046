@@ -1,0 +1,15 @@
+
+Isquid:S3010"+Remove this assignment of "piecePositions".(Óå‡ü8˜¥ÑÂ-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8˜¥ÑÂ-
+esquid:S1854"BRemove this useless assignment to local variable "templateLayout".(•©‚¬ıÿÿÿÿ8ó„Â-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹Ú±ã8”ãˆÂ-
+usquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ı²“î8”ãˆÂ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú•Öîşÿÿÿÿ
+Hsquid:S1068"%Remove this unused "h" private field.(ÚÍµŸûÿÿÿÿ8ºÊŒŒÂ-
+Ksquid:S1068
+"-Remove this unused "humanTurn" private field.(¿Â¯8şõö‹Â-
+Vsquid:S1481"3Remove this unused "templateLayout" local variable.(•©‚¬ıÿÿÿÿ8ó„Â-
+Ksquid:S1068"-Remove this unused "gameBoard" private field.(§ïÄÂ8Ÿÿ³Â-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú Áş
+Jsquid:S1068"'Remove this unused "cpu" private field.(ÑÏŠÉüÿÿÿÿ8Î•ŒÂ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ú±Â-
