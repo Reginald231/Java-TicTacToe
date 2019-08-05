@@ -13,7 +13,6 @@ public class commandLineTicTacToe {
             "you win.";
 
     public static void main (String[] args) {
-       // go(); Opens console.
         String startUpString = "This is a command line test program to simulate a basic tic tac toe game between the computer and the human player.";
 
         String beginningHeader = makeBorder(startUpString);
